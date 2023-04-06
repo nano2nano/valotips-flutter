@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738407661597",
+    "project_id": "valotips-test-c26e9",
+    "storage_bucket": "valotips-test-c26e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738407661597:android:d10d63adc0628c661886f4",
+        "android_client_info": {
+          "package_name": "com.example.valotips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738407661597-4klslsmodf8rd2j8qlids7bubsjcanvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4LnU1bhJZbU6ie0s8gZvpWQeXsJCId0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738407661597-4klslsmodf8rd2j8qlids7bubsjcanvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
